@@ -1,4 +1,4 @@
 # Preview
 Criado utilizando a biblioteca [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
 
-![smart_tab_screenshot](https://user-images.githubusercontent.com/84485466/234732543-ca62f4bf-42ce-4ede-805c-f8626551b874.png)
+![smart_tab_screenshot](https://user-images.githubusercontent.com/84485466/234743530-bc9131b4-000b-4c9a-b543-0bdba96b2fa9.png)
