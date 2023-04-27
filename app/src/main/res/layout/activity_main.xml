@@ -23,7 +23,7 @@
         app:stl_defaultTabTextMinWidth="0dp"
         app:stl_defaultTabTextSize="14sp"
 
-        app:stl_distributeEvenly="false"
+        app:stl_distributeEvenly="true"
 
         app:stl_dividerColor="@color/white"
         app:stl_dividerThickness="0dp"
